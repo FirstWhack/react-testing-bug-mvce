@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "target": "es5",
+    "lib": ["es6"],
+    "resolveJsonModule": true
+  },
+  "include": ["**/*.ts", "**/*.tsx", "**/*.js", "src/Tiles/AolLearn/AolLearnTile.test.tsx"]
+}
