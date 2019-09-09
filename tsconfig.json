@@ -9,5 +9,5 @@
     "lib": ["es6"],
     "resolveJsonModule": true
   },
-  "include": ["**/*.ts", "**/*.tsx", "**/*.js", "src/Tiles/AolLearn/AolLearnTile.test.tsx"]
+  "include": ["**/*.ts", "**/*.tsx", "**/*.js"]
 }
